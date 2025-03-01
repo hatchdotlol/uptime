@@ -22,7 +22,7 @@ status-website:
   cname: status.hatch.lol
   # baseUrl: /
   logoUrl: https://raw.githubusercontent.com/hatchdotlol/upptime/master/icon.png
-  name: hatch.lol uptime
+  name: Hatch Status
   navbar:
     - title: Status
       href: /
