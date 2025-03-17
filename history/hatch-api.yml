@@ -1,7 +1,7 @@
 url: https://api.hatch.lol
-status: up
-code: 200
-responseTime: 151
-lastUpdated: 2025-03-16T23:09:41.073Z
+status: down
+code: 502
+responseTime: 547
+lastUpdated: 2025-03-17T17:15:46.935Z
 startTime: 2025-02-27T17:07:52.853Z
 generator: Upptime <https://github.com/upptime/upptime>
