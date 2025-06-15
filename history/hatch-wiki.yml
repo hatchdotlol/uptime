@@ -1,7 +1,7 @@
 url: https://wiki.hatch.lol
-status: up
-code: 200
-responseTime: 4402
-lastUpdated: 2025-06-14T23:10:53.655Z
+status: down
+code: 502
+responseTime: 595
+lastUpdated: 2025-06-15T12:37:47.980Z
 startTime: 2025-02-27T17:07:54.225Z
 generator: Upptime <https://github.com/upptime/upptime>
